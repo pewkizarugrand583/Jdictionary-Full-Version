@@ -235,4 +235,4 @@ This repository serves as the official landing page for jDictionary. The softwar
 **Get the most recent version of jDictionary today!**
 
 ---
-**Last updated:** 2026-11-01 09:03:21 UTC
+**Last updated:** 2026-11-01 16:38:08 UTC
